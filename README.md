@@ -37,4 +37,8 @@ Having this setup in place is a huge relief. I now have a robust monitoring syst
 In summary, I’ve created a fully integrated monitoring solution using AWS CloudWatch, with a log group for storing logs, an alarm to notify me if CPU utilization exceeds the threshold of 5%, and a dashboard to track performance. This system ensures my application runs smoothly and allows me to address potential issues before they impact users.
 
 **output of the task**:
+Configuring the Alarm 
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/622c9bdd-62e1-4657-a6a5-0344b8ac5bb3" />
 
+Setting Up the Dashboard
+<img width="953" alt="Image" src="https://github.com/user-attachments/assets/a9615036-2545-4285-816a-8e6eaf7f4d2a" />
